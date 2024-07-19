@@ -1,0 +1,5 @@
+gemini_model_name: "gemini-1.5-flash"
+
+server:
+  port: 8080
+  host: 127.0.0.1

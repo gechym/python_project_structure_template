@@ -9,3 +9,6 @@ fastapi
 uvicorn
 pydantic
 pydantic-settings
+
+# format code pep8
+autopep8

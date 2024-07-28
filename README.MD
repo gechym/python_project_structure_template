@@ -1,7 +1,5 @@
 # Project Name
-
 Đây là template dự án mẫu python sau ni tái sử dụng
-
 ## Yêu cầu
 
 - Python 3.11+
